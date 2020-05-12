@@ -1,0 +1,15 @@
+Yagya Mani Kalakheti, Father, Bhairav Kalakheti  
+Yagya Mani Kalakheti, Mother, Jivan Kalakheti
+Bhairav Kalakheti, Husband, Jivan Kalakheti
+Bhairav Kalakheti, Husband, Januka Kalakheti
+Nirmani Kalakheti, Father, Bhairav Kalakheti
+Nirmani Kalakheti, Wife	, Kamala Kalakheti
+Ganesh Kalakheti, Father, Nirmani Kalakheti
+Ganesh Kalakheti, Mother, Kamala Kalakheti
+Dharana Kalakheti, Father, Nirmani Kalakheti
+Dharana Kalakheti, Mother, Kamala Kalakheti
+Sadhana Kalakheti, Father, Nirmani Kalakheti
+Sadhana Kalakheti, Mother, Kamala Kalakheti
+Nishesh Kalakheti, Father, Yagya Mani Kalakheti   
+Nishesh Kalakheti, Mother, Gyanu Kalakheti 
+Ashesh Kalakheti, Father, Yagya Mani Kalakheti
