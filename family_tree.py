@@ -101,6 +101,7 @@ def relation_builder():
                 
             relation_dic[relation](p1, p2, relation)
 
+##    For testing purpose
 ##    for k,v in person_obj.items():
 ##        print (v.name)
 ##        for j in v.relations:
