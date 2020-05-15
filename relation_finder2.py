@@ -112,7 +112,7 @@ class Graph(object):
 
     def print_relation(self, person1, person2):
         """
-            This method prints the relation between two person. find_relation() method calls this method.
+            This method prints the relation between two person.
         """
         obj = self.find_relation(person1, person2)
         if obj:
