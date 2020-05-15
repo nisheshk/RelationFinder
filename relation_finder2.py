@@ -1,10 +1,7 @@
 """
 Author: Nishesh Kalakheti
 Date: No Idea about the date because of the COVID-19 situation
-Goal: Often sometimes, some distant relatives comes to my house to pay a visit. My mom and dad asks me if I recognize the person.
-      No, I don't. So now what I can do is ask the relatives name and find how he/she is related to me using this script.
-      But I need to be careful, because there should be an entry of that relative in the file family_import.txt
-      All thanks to graph algorithm (BFS) which helped me to achieve it.
+Goal: To find the relation between two individuals using BFS shortest path technique.
  
 Reference: https://pythoninwonderland.wordpress.com/2017/03/18/how-to-implement-breadth-first-search-in-python/
 """
