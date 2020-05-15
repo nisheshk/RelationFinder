@@ -18,7 +18,7 @@ class Graph(object):
 
             Parameters:
             -----------
-            graph: Takes in the person_obj dict from the script family_tree
+            graph: Takes in the person_obj dict from the script relation_builder
 
             
         """
